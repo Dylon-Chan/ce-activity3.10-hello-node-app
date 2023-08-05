@@ -3,8 +3,8 @@ name: JS test
 on: [push]
 
 jobs:
-    Terraform-CI:
-        name: Terraform-CI
+    NodeJs-Test:
+        name: NodeJs-Test
         runs-on: ubuntu-latest
         
         steps:
